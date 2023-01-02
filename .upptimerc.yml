@@ -1,31 +1,39 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: artbanx # Your GitHub organization or username, where this repository lives
+repo: status-page # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://artbanx.io
+  - name: App
+    url: https://app.artbanx.io
+
+commitMessages:
+  commitAuthorName: "ArtbanxStatus-Bot"
+  commitAuthorEmail: "status@artbanx.io"
+
+assignees: # Users to assign downtime issues (optional)
+  - tino-fernandez  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: "status.artbanx.io"
+  #baseUrl: /status-page
+  publish: true
+  logoUrl: https://www.artbanx.io/logo_small_grey.svg
+  favicon: https://www.artbanx.io/favicon.ico
+  name: Artbanx Services Status
+  introTitle: "**Artbanx** Services Status"
+  introMessage: Status page for Artbanx online services
+  themeUrl: https://status.artbanx.io/artbanx-theme.css
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://artbanx.io
+    - title: App
+      href: https://app.artbanx.io   
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
