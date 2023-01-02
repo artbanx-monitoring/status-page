@@ -27,7 +27,7 @@ status-website:
   name: Artbanx Services Status
   introTitle: "**Artbanx** Services Status"
   introMessage: Status page for Artbanx online services
-  themeUrl: https://status.artbanx.io/artbanx-theme.css
+  themeUrl: https://raw.githubusercontent.com/artbanx-monitoring/status-page/master/assets/artbanx-theme.css
   navbar:
     - title: Status
       href: /
