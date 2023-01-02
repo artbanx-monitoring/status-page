@@ -8,6 +8,17 @@ sites:
   - name: App
     url: https://app.artbanx.io
 
+  - name: User Login
+    url: https://app.artbanx.io/auth/rest/public/authentication/password/check
+    method: POST
+    headers:
+      - "X-Same-Domain: 1"
+      - "Content-Type: application/json"
+    body: '{ "username" : "$LOGIN_USERNAME", "password" : "$LOGIN_PASSWORD" }'
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200    
+
 commitMessages:
   commitAuthorName: "Artbanx-Status-Bot"
   commitAuthorEmail: "monitoring@artbanx.io"
