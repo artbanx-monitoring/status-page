@@ -22,12 +22,12 @@ status-website:
   cname: "status.artbanx.io"
   #baseUrl: /status-page
   publish: true
-  logoUrl: https://www.artbanx.io/logo_small_grey.svg
-  favicon: https://www.artbanx.io/favicon.ico
+  logoUrl: https://cdn.statically.io/gh/artbanx-monitoring/status-page/master/assets/logo_small_grey.svg
+  favicon: https://cdn.statically.io/gh/artbanx-monitoring/status-page/master/assets/favicon.ico
   name: Artbanx Services Status
   introTitle: "**Artbanx** Services Status"
   introMessage: Status page for Artbanx online services
-  themeUrl: https://raw.githubusercontent.com/artbanx-monitoring/status-page/master/assets/artbanx-theme.css
+  themeUrl: https://cdn.statically.io/gh/artbanx-monitoring/status-page/master/assets/artbanx-theme.css
   navbar:
     - title: Status
       href: /
