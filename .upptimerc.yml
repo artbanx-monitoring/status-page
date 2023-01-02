@@ -5,6 +5,7 @@ repo: status-page # The name of this repository
 sites:
   - name: Website
     url: https://artbanx.io
+
   - name: App
     url: https://app.artbanx.io
 
@@ -17,8 +18,65 @@ sites:
     body: '{ "username" : "$LOGIN_USERNAME", "password" : "$LOGIN_PASSWORD" }'
     maxResponseTime: 5000
     expectedStatusCodes:
-      - 200    
+      - 200
 
+  - name: Collections and Permissions API
+    url: https://app.artbanx.io/health/front-api/
+    headers:
+      - "$HEALTH_BASIC_AUTH_HEADER"
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200 
+
+  - name: Art Data API
+    url: https://app.artbanx.io/health/front-api/
+    headers:
+      - "$HEALTH_BASIC_AUTH_HEADER"
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200 
+
+  - name: Payments API
+    url: https://app.artbanx.io/health/payment/
+    headers:
+      - "$HEALTH_BASIC_AUTH_HEADER"
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+
+  - name: Identity and Screening API
+    url: https://app.artbanx.io/health/kyc/
+    headers:
+      - "$HEALTH_BASIC_AUTH_HEADER"
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+
+  - name: Shipments API
+    url: https://app.artbanx.io/health/shipping/
+    headers:
+      - "$HEALTH_BASIC_AUTH_HEADER"
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+
+  - name: Service Orchestration
+    url: https://app.artbanx.io/health/offering/
+    headers:
+      - "$HEALTH_BASIC_AUTH_HEADER"
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200      
+
+  - name: Virtual Gallery
+    url: https://app.artbanx.io/health/virtual-gallery/
+    headers:
+      - "$HEALTH_BASIC_AUTH_HEADER"
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200                              
+               
+               
 commitMessages:
   commitAuthorName: "Artbanx-Status-Bot"
   commitAuthorEmail: "monitoring@artbanx.io"
