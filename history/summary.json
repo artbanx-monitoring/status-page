@@ -59,35 +59,39 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "collections-and-permissions-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.90%",
+    "uptimeDay": "76.30%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 390,
     "timeDay": 412,
     "timeWeek": 419,
     "timeMonth": 390,
     "timeYear": 390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-24": 341
+    }
   },
   {
     "name": "Art Data API",
-    "url": "https://app.artbanx.io/health/front-api/",
+    "url": "https://app.artbanx.io/health/art-data-api/",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "art-data-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.91%",
+    "uptimeDay": "76.32%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 147,
     "timeDay": 139,
     "timeWeek": 141,
     "timeMonth": 147,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-24": 341
+    }
   },
   {
     "name": "Payments API",
