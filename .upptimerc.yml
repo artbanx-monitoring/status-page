@@ -29,7 +29,7 @@ sites:
       - 200 
 
   - name: Art Data API
-    url: https://app.artbanx.io/health/front-api/
+    url: https://app.artbanx.io/health/art-data-api/
     headers:
       - "$HEALTH_BASIC_AUTH_HEADER"
     maxResponseTime: 5000
