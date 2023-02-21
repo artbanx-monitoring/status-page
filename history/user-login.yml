@@ -1,7 +1,7 @@
 url: https://app.artbanx.io/auth/rest/public/authentication/password/check
 status: up
 code: 200
-responseTime: 247
-lastUpdated: 2023-02-20T23:02:48.059Z
+responseTime: 285
+lastUpdated: 2023-02-21T23:03:17.257Z
 startTime: Mon Jan 02 2023 11:54:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
