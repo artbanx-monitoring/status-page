@@ -22,19 +22,19 @@
     "url": "https://app.artbanx.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 962,
-    "timeDay": 1020,
+    "time": 961,
+    "timeDay": 948,
     "timeWeek": 871,
-    "timeMonth": 1085,
-    "timeYear": 962,
+    "timeMonth": 1078,
+    "timeYear": 961,
     "dailyMinutesDown": {
-      "2023-04-10": 0
+      "2023-04-10": 5
     }
   },
   {
