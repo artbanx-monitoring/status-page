@@ -22,36 +22,40 @@
     "url": "https://app.artbanx.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 908,
-    "timeDay": 778,
-    "timeWeek": 902,
-    "timeMonth": 871,
+    "timeDay": 855,
+    "timeWeek": 905,
+    "timeMonth": 873,
     "timeYear": 908,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-06": 0
+    }
   },
   {
     "name": "User Login",
     "url": "https://app.artbanx.io/auth/rest/public/authentication/password/check",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "user-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 278,
-    "timeWeek": 288,
-    "timeMonth": 372,
+    "timeDay": 371,
+    "timeWeek": 310,
+    "timeMonth": 375,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-06": 0
+    }
   },
   {
     "name": "Collections and Permissions API",
