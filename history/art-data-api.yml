@@ -1,7 +1,7 @@
 url: https://app.artbanx.io/health/art-data-api/
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-14T16:42:35.169Z
+code: 503
+responseTime: 293
+lastUpdated: 2023-12-14T23:04:26.889Z
 startTime: 2023-01-02T17:20:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
