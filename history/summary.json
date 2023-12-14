@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "app",
     "status": "down",
-    "uptime": "97.71%",
+    "uptime": "97.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.04%",
-    "uptimeYear": "97.71%",
+    "uptimeMonth": "71.89%",
+    "uptimeYear": "97.53%",
     "time": 908,
     "timeDay": 906,
     "timeWeek": 919,
     "timeMonth": 890,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2023-12-14": 65,
+      "2023-12-14": 1006,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -51,18 +51,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "user-login",
     "status": "down",
-    "uptime": "97.71%",
+    "uptime": "97.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.04%",
-    "uptimeYear": "97.71%",
+    "uptimeMonth": "71.89%",
+    "uptimeYear": "97.53%",
     "time": 301,
     "timeDay": 463,
     "timeWeek": 405,
     "timeMonth": 333,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-12-14": 65,
+      "2023-12-14": 1006,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -78,11 +78,11 @@
     "url": "https://app.artbanx.io/health/front-api/",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "collections-and-permissions-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 396,
     "timeDay": 468,
@@ -90,6 +90,7 @@
     "timeMonth": 380,
     "timeYear": 396,
     "dailyMinutesDown": {
+      "2023-12-14": 4,
       "2023-01-24": 341
     }
   },
@@ -98,11 +99,11 @@
     "url": "https://app.artbanx.io/health/art-data-api/",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "art-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 137,
     "timeDay": 173,
@@ -110,6 +111,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
+      "2023-12-14": 3,
       "2023-01-24": 341
     }
   },
@@ -118,28 +120,30 @@
     "url": "https://app.artbanx.io/health/payment/",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "payments-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 173,
     "timeWeek": 141,
     "timeMonth": 130,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 3
+    }
   },
   {
     "name": "Identity and Screening API",
     "url": "https://app.artbanx.io/health/kyc/",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "identity-and-screening-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
@@ -147,17 +151,19 @@
     "timeWeek": 154,
     "timeMonth": 139,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 2
+    }
   },
   {
     "name": "Shipments API",
     "url": "https://app.artbanx.io/health/shipping/",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "shipments-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
@@ -166,6 +172,7 @@
     "timeMonth": 234,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2023-12-14": 1,
       "2023-01-25": 1
     }
   },
@@ -174,10 +181,10 @@
     "url": "https://app.artbanx.io/health/offering/",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "service-orchestration",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
@@ -185,16 +192,18 @@
     "timeWeek": 270,
     "timeMonth": 248,
     "timeYear": 250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 1
+    }
   },
   {
     "name": "Virtual Gallery",
     "url": "https://app.artbanx.io/health/virtual-gallery/",
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "virtual-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -203,6 +212,8 @@
     "timeWeek": 271,
     "timeMonth": 248,
     "timeYear": 250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   }
 ]
