@@ -1,7 +1,7 @@
 url: https://app.artbanx.io/auth/rest/public/authentication/password/check
 status: down
 code: 503
-responseTime: 492
-lastUpdated: 2024-03-15T23:02:05.121Z
+responseTime: 299
+lastUpdated: 2024-03-16T23:02:11.494Z
 startTime: 2023-01-02T11:54:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
