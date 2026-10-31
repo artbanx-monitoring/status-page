@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/artbanx.io.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "81.85%",
+    "uptime": "81.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "30.62%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "30.35%",
     "time": 1843,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1771,
+    "timeYear": 1772,
     "dailyMinutesDown": {
-      "2026-10-30": 287,
+      "2026-10-31": 271,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -279,10 +280,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "app",
     "status": "down",
-    "uptime": "24.18%",
+    "uptime": "24.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -290,7 +291,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 287,
+      "2026-10-31": 271,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -653,8 +655,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -663,10 +664,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "user-login",
     "status": "down",
-    "uptime": "24.17%",
+    "uptime": "24.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -674,7 +675,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 287,
+      "2026-10-31": 271,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -1037,8 +1039,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -1047,10 +1048,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "collections-and-permissions-api",
     "status": "down",
-    "uptime": "24.76%",
+    "uptime": "24.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1058,7 +1059,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 287,
+      "2026-10-31": 271,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -1421,8 +1423,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -1431,10 +1432,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "art-data-api",
     "status": "down",
-    "uptime": "24.76%",
+    "uptime": "24.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1442,7 +1443,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 287,
+      "2026-10-31": 271,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -1805,8 +1807,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -1815,10 +1816,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "payments-api",
     "status": "down",
-    "uptime": "24.77%",
+    "uptime": "24.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1826,7 +1827,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 287,
+      "2026-10-31": 271,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -2189,8 +2191,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -2199,10 +2200,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "identity-and-screening-api",
     "status": "down",
-    "uptime": "24.77%",
+    "uptime": "24.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -2210,7 +2211,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 287,
+      "2026-10-31": 271,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -2573,8 +2575,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -2583,10 +2584,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "shipments-api",
     "status": "down",
-    "uptime": "24.77%",
+    "uptime": "24.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -2594,7 +2595,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 287,
+      "2026-10-31": 271,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -2957,8 +2959,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -2967,10 +2968,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "service-orchestration",
     "status": "down",
-    "uptime": "24.77%",
+    "uptime": "24.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -2978,7 +2979,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 287,
+      "2026-10-31": 271,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -3341,8 +3343,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -3351,10 +3352,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.artbanx.io.ico",
     "slug": "virtual-gallery",
     "status": "down",
-    "uptime": "24.77%",
+    "uptime": "24.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -3362,7 +3363,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 287,
+      "2026-10-31": 271,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -3725,8 +3727,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   }
 ]
